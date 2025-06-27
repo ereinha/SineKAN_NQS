@@ -1,3 +1,6 @@
+# "Probing Quantum Spin Systems with Kolmogorov-Arnold Neural Network Quantum States"
+## by Mahmud Ashraf Shamim, Eric A F Reinhardt, Talal Ahmed Chowdhury, Sergei Gleyzer, Paulo T Araujo
+
 This code was used to produce results in this published work https://arxiv.org/abs/2506.01891.
 An example use of this code can be shown in J1J2_Training_Example.ipynb.
 

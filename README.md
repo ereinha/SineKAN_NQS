@@ -2,6 +2,21 @@
 ## by Mahmud Ashraf Shamim, Eric A F Reinhardt, Talal Ahmed Chowdhury, Sergei Gleyzer, Paulo T Araujo
 
 This code was used to produce results in this published work https://arxiv.org/abs/2506.01891.
+
+Please cite as:
+```
+@misc{shamim2025probingquantumspinsystems,
+      title={Probing Quantum Spin Systems with Kolmogorov-Arnold Neural Network Quantum States}, 
+      author={Mahmud Ashraf Shamim and Eric A F Reinhardt and Talal Ahmed Chowdhury and Sergei Gleyzer and Paulo T Araujo},
+      year={2025},
+      eprint={2506.01891},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2506.01891}, 
+}
+```
+
+
 An example use of this code can be shown in J1J2_Training_Example.ipynb.
 
 Example run script:
